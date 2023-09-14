@@ -1,0 +1,26 @@
+form{
+  position: relative;
+}
+.name{
+  position: absolute;
+  bottom: 16rem;
+   left: 1rem;
+
+}
+.email{
+  position: absolute;
+  bottom: 12.5rem;
+   left: 1rem;
+
+}
+
+.text{
+  position: absolute;
+  bottom: 9.2rem;
+   left: 1rem;
+
+}
+.image{
+  height: 440px;
+  width: 615px;
+}
